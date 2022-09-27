@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/css_basic_examples.iml
+
+# IntellijIdea files
+*.iml
+.idea
+out
